@@ -3,5 +3,5 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 Please refer this repository according to these lab:
 
-Lab 1: Data Collection\n
+Lab 1: Data Collection  
 Lab 2: 
